@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file thuoc week1 ma thuoc
 branch week1
+=======
+file thuoc week1 va branch main
+>>>>>>> main
